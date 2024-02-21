@@ -16,7 +16,7 @@ using namespace std;
 // Default Constructor
 Game::Game() {
   
-  // Shuffle dem decks boi
+  // Shuffle decks
   deck1.shuffle();
   deck2.shuffle();
 }
